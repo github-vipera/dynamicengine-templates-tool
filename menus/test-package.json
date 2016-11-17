@@ -1,0 +1,22 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Dynamic Engine",
+          "submenu": [
+            {
+              "label" : "Project Templates",
+              "command": "dynamicengine-templates-tool:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
