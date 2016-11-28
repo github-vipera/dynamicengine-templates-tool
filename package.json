@@ -1,7 +1,7 @@
 {
   "name": "dynamicengine-templates-tool",
   "main": "./lib/dynamicengine-templates-tool",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Dynamic Engine Templates Tool Plugin for ATOM",
   "keywords": [],
   "activationCommands": {
